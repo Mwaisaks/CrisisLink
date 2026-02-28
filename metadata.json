@@ -1,0 +1,8 @@
+{
+  "name": "CrisisLink Africa",
+  "description": "AI-powered community crisis reporting and emergency response coordination platform.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
